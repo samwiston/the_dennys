@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# But not these files...
+!the_denny's.*
+!Terraria_Nude_Mod.*
+!.gitignore
